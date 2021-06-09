@@ -1,0 +1,33 @@
+# LABEL file 
+
+item {
+    id: 1
+    name:'eggs'
+}
+
+item {
+    id: 2
+    name: 'butter'
+}
+
+item {
+    id: 3
+    name: 'garlic'
+}
+
+item {
+    id: 4
+    name: 'tomato'
+}
+item {
+    id: 5
+    name: 'lemon'
+}
+item {
+    id: 6
+    name: 'onion'
+}
+item {
+    id: 7
+    name: 'potato'
+}
