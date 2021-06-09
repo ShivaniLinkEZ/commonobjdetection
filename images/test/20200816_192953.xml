@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>20200816_192953.jpg</filename>
+	<path>D:\PROJECTS\prototype\images\Test\20200816_192953.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>246</ymin>
+			<xmax>304</xmax>
+			<ymax>581</ymax>
+		</bndbox>
+	</object>
+</annotation>
