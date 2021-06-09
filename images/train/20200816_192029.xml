@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>20200816_192029.jpg</filename>
+	<path>D:\PROJECTS\prototype\images\Train\20200816_192029.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lemon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>249</ymin>
+			<xmax>421</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>
